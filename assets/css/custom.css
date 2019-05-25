@@ -1,0 +1,30 @@
+/********* GENERAL SETTINGS ********/
+body p {
+ font-size: 1.2em;
+} 
+
+body li {
+ font-size: 1.2em;
+} 
+
+/********* NAVBAR SETTINGS ********/
+.bg-dark {
+  background-color: #57068c !important;
+}
+
+#blog-title {
+  vertical-align: -moz-middle-with-baseline;
+  margin-left: 0.5rem;
+  font-size: 1.2em;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  font-size: 1.2em;
+  color: white; 
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+  color: white;
+  text-decoration: none;
+  background-color: #57068c;
+}

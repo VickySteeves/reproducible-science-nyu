@@ -1,0 +1,4 @@
+Sitemap: https://nyu.reproduciblescience.org/sitemapindex.xml
+
+User-Agent: *
+Host: nyu.reproduciblescience.org
